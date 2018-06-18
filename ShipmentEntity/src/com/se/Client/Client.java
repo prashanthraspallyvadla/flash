@@ -97,7 +97,7 @@ public class Client {
 			break;
 
 		case 2:
-			System.out.format("%-15s %-25s %-15s %-15s %-15s\n", "Name", "Identification Number", "Company Name",
+			System.out.format("%-15s %-25s %-15s %-15sÂ %-15s\n", "Name", "Identification Number", "Company Name",
 					"IATA", "FMC");
 			for (int j = 0; j < compArr.length; j++) {
 				if (compArr[j]!= null) {
@@ -129,3 +129,6 @@ public class Client {
 	}
 
 }
+
+
+//babhnu lorajkhajkd df
